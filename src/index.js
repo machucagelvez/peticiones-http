@@ -1,6 +1,3 @@
-import { saludar } from './js/componentes'
-import './styles.css'
+import { init } from './js/chistes-page'
 
-const nombre = 'Juan'
-
-saludar(nombre)
+init()

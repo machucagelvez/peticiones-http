@@ -1,5 +1,5 @@
 {
-  "name": "webpack-inicial",
+  "name": "http",
   "version": "1.0.0",
   "description": "Estructura inicial proyecto webpack",
   "main": "index.js",

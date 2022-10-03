@@ -1,6 +1,4 @@
-# Webpack starter
-
-Proyecto inicial para crear apps usando Webpack.
+# Peticiones HTTP
 
 ### Notas:
 
